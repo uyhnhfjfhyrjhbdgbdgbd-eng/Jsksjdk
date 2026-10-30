@@ -1,0 +1,12 @@
+{
+  "geode": "5.11.2",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081"
+  },
+  "id": "tunombre.nexus-button",
+  "name": "Nexus Button",
+  "version": "v1.0.0",
+  "developer": "TuNombre",
+  "description": "Añade un botón con la imagen de Nexus en el editor."
+}
